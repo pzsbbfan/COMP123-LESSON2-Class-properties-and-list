@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP123 LESSON2", "COMP123 LESSON2\COMP123 LESSON2.csproj", "{461BB664-4207-4637-8374-4A0471C41D91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{461BB664-4207-4637-8374-4A0471C41D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{461BB664-4207-4637-8374-4A0471C41D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{461BB664-4207-4637-8374-4A0471C41D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{461BB664-4207-4637-8374-4A0471C41D91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3ACDA84B-EE51-435A-A60A-55FC9ADD9DB2}
+	EndGlobalSection
+EndGlobal
